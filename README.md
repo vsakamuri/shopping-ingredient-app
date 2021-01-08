@@ -3,6 +3,7 @@
     If user likes the receipe and shopping list, application will provide list of shopping items and cost of the shopping list.
 
 # Project Structure & Dependencies:
+    GIT Repo - [a link](https://github.com/vsakamuri/shopping-ingredient-app)
     source code is present in src folder
     unit tests are in test folder
     project dependencies are in Pipfile. No need to install below dependencies. pipenv helps us with the same. 
@@ -19,9 +20,13 @@
 
 * Add Python and Python Script folders to home path
 
+* Download the code from GitHub
+
+* Get the .env from app owner and add it to root folder
+
 * Open the project root folder in command prompt 
 
-* Run following command to creae virtual running environment
+* Run following command to create virtual running environment
 >    python -m pip install pipenv
 
 * Run following command to install dependencies in virtual environment
