@@ -3,7 +3,7 @@
     If user likes the receipe and shopping list, application will provide list of shopping items and cost of the shopping list.
 
 # Project Structure & Dependencies:
-    GIT Repo - [a link](https://github.com/vsakamuri/shopping-ingredient-app)
+    [GIT Repo](https://github.com/vsakamuri/shopping-ingredient-app/).
     source code is present in src folder
     unit tests are in test folder
     project dependencies are in Pipfile. No need to install below dependencies. pipenv helps us with the same. 
