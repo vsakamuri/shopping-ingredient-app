@@ -1,0 +1,11 @@
+[requires]
+python_version = '3.9'
+
+[dev-packages]
+pyinstaller = "*"
+
+[packages]
+Pillow = "==8.1.0"
+python-decouple = "*"
+[pipenv]
+allow_prereleases = true
