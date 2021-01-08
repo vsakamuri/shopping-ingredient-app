@@ -4,3 +4,4 @@ _pycache_
 .env
 build
 .spec
+shopping_app.spec
